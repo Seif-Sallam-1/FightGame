@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">صراع البقاء</string>
+    <string name="player_1">لاعب 1</string>
+    <string name="player_2">لاعب 2</string>
+    <string name="fight">اديلو ادي!</string>
+    <string name="player1_wins">!اللاعب ١ فاز (%1$s يهزم %2$s)</string>
+    <string name="player2_wins">!اللاعب ٢ فاز (%1$s يهزم %2$s)</string>
+    <string name="draw">تعادل! كلاهما اختار %1$s</string>
+    <string name="lion">أسد</string>
+    <string name="tiger">نمر</string>
+    <string name="bear">دب</string>
+    <string name="dog">كلب</string>
+    <string name="cat">صاوي</string>
+    <string name="rabbit">أرنب</string>
+    <string name="frog">ضفدع</string>
+
+</resources>

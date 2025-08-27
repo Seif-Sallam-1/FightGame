@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Fight game</string>
+    <string name="player_1">Player 1</string>
+    <string name="player_2">Player 2</string>
+    <string name="fight">Fight!</string>
+    <string name="player1_wins">Player 1 wins! (%1$s beats %2$s)</string>
+    <string name="player2_wins">Player 2 wins! (%1$s beats %2$s)</string>
+    <string name="draw">It’s a draw! Both chose %1$s</string>
+    <string name="lion">Lion</string>
+    <string name="tiger">Tiger</string>
+    <string name="bear">Bear</string>
+    <string name="dog">Dog</string>
+    <string name="cat">Cat</string>
+    <string name="rabbit">Rabbit</string>
+    <string name="frog">Frog</string>
+</resources>
